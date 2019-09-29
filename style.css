@@ -1214,13 +1214,16 @@
         }
 
 
-        .logo_footer {
-            display: flex;
-            align-items: center;
-            padding-top: 20px;
+        footer {
             background-color: #4c4c4c;
             height: 43px;
             width: 640px;
+        }
+
+        .logo_footer {
+            display: flex;
+            align-items: center;
+            padding-top: 16px;
         }
 
         /*logo photo*/
