@@ -479,6 +479,11 @@ h1 {
 	padding: 3px 3px;
 }
 
+.plus img:hover {
+	transform: scale(1.4);
+	transition: 0.25s;
+}
+
 .twits {
 	display: none;
 }
